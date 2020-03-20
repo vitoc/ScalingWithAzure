@@ -13,7 +13,7 @@ The following are resources that you can explore further for points I talked abo
 
 * [Onboard a root or apex domain on your Front Door](https://docs.microsoft.com/bs-cyrl-ba/azure/frontdoor/front-door-how-to-onboard-apex-domain)
 
-## Active Directory
+## Azure Active Directory
 
 * [Walkthrough to showcase how React apps with back-end servers can use Azure AD for access authorization](https://github.com/vitoc/rad)
 
@@ -34,4 +34,4 @@ The following are resources that you can explore further for points I talked abo
 
 ## Other resources
 
-* [Walkthrough to showcase how React apps with back-end servers can use Azure AD for access authorization](https://www.youtube.com/watch?v=JmdeVG71ESA)
+* [Video walkthrough of infusing Azure AD authentication into React apps, using Azure Table Storage from Node.JS, using Azure’s APIs](https://www.youtube.com/watch?v=JmdeVG71ESA)
